@@ -1,4 +1,4 @@
-> Hi there, I'm Akash Sahu_ 👨‍💻 
+> Hi there, I'm Akash Sahu_ 👨‍💻 | Coder
 
 ## 🧑‍💻 About Me  
 - 🎓 Pursuing a **BCA** at Sarala Birla University, Ranchi.  
