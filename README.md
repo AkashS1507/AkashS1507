@@ -1,4 +1,4 @@
-# 🌟 Hi there, I'm Akash Sahu! 👋  
+> Hi there, I'm Akash Sahu_ 👨‍💻 
 
 ## 🧑‍💻 About Me  
 - 🎓 Pursuing a **BCA** at Sarala Birla University, Ranchi.  
