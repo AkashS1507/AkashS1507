@@ -1,7 +1,7 @@
 Hello, I'm Akash Sahu_ 
 
 ## 🧑‍💻 About Me  
-- 🎓 Pursuing a **BCA** at Sarala Birla University, Ranchi.  
+- 🎓 Completed **BCA** at Sarala Birla University, Ranchi.  
 - 💻 Proficient in **MERN Stack Development**.  
 - 🌟 Frontend Head of **Google Developer Group (GDG) - SBU**.  
 - 🎨 Bringing ideas to life with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**.  
@@ -21,7 +21,7 @@ Hello, I'm Akash Sahu_
 
 ## 🚀 Projects  
 - 🌍 **Just Many**
-- [Visit Here](https://akashsahu7.wordpress.com)  
+- [Portfolio Website](https://akashsahu7.wordpress.com)  
 
 ---
 
