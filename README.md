@@ -8,7 +8,7 @@ Hello, I'm Akash Sahu_
 
 ## 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,java,html,css,react,next,node,express,mongodb,mysql,postgres,tailwind,bootstrap,git,github,vercel,firebase,figma,wordpress)
+![Tech Stack](https://skillicons.dev/icons?i=js,ts,java,html,css,react,next,node,express,mongodb,mysql,postgres,tailwind,bootstrap,git,github,vercel,render,firebase,figma,wordpress,npm,linux,vscode,md,postman,cloudinary&perline=13)
 
 ---
 
