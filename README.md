@@ -1,5 +1,10 @@
 Hello, I'm Akash Sahu_ 
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/AkashS1507/AkashS1507/output/snake.svg)
+
+
 ## 🧑‍💻 About Me  
 - 🎓 Completed **BCA** at Sarala Birla University, Ranchi.  
 - 💻 Proficient in **MERN Stack Development**.  
@@ -36,13 +41,6 @@ Hello, I'm Akash Sahu_
 - I thrive on challenges, whether it’s coding, hackathons, or life itself! 😄  
 
 ### ✨ “Turning ideas into reality, one line of code at a time.”  
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/AkashS1507/AkashS1507/output/snake.svg)
-
 
 <!---
 AkashS1507/AkashS1507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
