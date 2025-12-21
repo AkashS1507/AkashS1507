@@ -7,7 +7,7 @@
 ---
 
 ## Tech Stack
-<br>
+<br><br>
 
 ![Tech Stack](https://skillicons.dev/icons?i=js,ts,java,html,css,react,next,express,mongodb,mysql,postgres,tailwind,bootstrap,git,github,vercel,firebase,figma,wordpress,npm,linux,vscode,md,postman,cloudinary,rest,json&perline=12)
 
