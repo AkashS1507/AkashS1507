@@ -37,6 +37,13 @@ Hello, I'm Akash Sahu_
 
 ### ✨ “Turning ideas into reality, one line of code at a time.”  
 
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/AkashS1507/AkashS1507/output/snake.svg)
+
+
 <!---
 AkashS1507/AkashS1507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
