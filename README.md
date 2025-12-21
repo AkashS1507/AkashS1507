@@ -1,5 +1,7 @@
 Hello, I'm Akash Sahu_ 
 
+---
+
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/AkashS1507/AkashS1507/output/snake.svg)
