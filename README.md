@@ -1,5 +1,3 @@
-Hello, I'm Akash Sahu_ 
-
 ---
 
 ## 🐍 Contribution Snake
