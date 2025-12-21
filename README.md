@@ -4,6 +4,13 @@ Hello, I'm Akash Sahu_
 
 ![Snake animation](https://raw.githubusercontent.com/AkashS1507/AkashS1507/output/snake.svg)
 
+---
+
+## 🛠️ Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,java,html,css,react,next,node,express,mongodb,mysql,postgres,tailwind,bootstrap,git,github,vercel,firebase,figma,wordpress)
+
+---
 
 ## 🧑‍💻 About Me  
 - 🎓 Completed **BCA** at Sarala Birla University, Ranchi.  
