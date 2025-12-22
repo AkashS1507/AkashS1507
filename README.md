@@ -21,23 +21,6 @@
 
 ---
 
-## 💼 Professional Experience  
-- 🌟 Frontend Head of **Google Developer Group (GDG) - SBU**.
-
-- 🌟 **Frontend Development Intern** at Campofall:  
-   - Built and optimized key pages for a seamless user experience.  
-   - Leveraged cutting-edge tools like **ShadCN** and **MongoDB** for top-notch results.
- 
-- 🤝 Team Leader in **Hackathons**, showcasing excellent **Team management** skills.
-
----
-
-## 🚀 Projects  
-- 🌍 **Just Many**
-- [Portfolio Website](https://akashsahu7.wordpress.com)  
-
----
-
 ## 📫 Let's Connect!  
 - 🌐 [Portfolio Website](https://akashsahu7.wordpress.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/akashs1507/) 
@@ -45,10 +28,7 @@
 
 ---
 
-## ⚡ Fun Fact  
-- I thrive on challenges, whether it’s coding, hackathons, or life itself! 😄  
-
-### ✨ “Turning ideas into reality, one line of code at a time.”  
+### 🌱 “Turning ideas into reality.”  
 
 <!---
 AkashS1507/AkashS1507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
