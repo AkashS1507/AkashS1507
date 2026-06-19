@@ -14,8 +14,8 @@
 ---
 
 ## 🧑‍💻 About Me  
-- 💼 Working as SAP SuccessFactors Integration Developer at **Accenture Solutions Pvt. Ltd**.  
-- 💻 Proficient in **MERN Stack Development**.  
+- 🚀 Currently part of **Accenture Solutions Pvt. Ltd.**.
+- 💼 Working as **SAP SuccessFactors Integration Developer**.
 - 🌟 Frontend Development Head of **Google Developer Group (GDG) - SBU**.  
 - 🎨 Bringing ideas to life with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**.  
 
