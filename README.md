@@ -14,9 +14,9 @@
 ---
 
 ## 🧑‍💻 About Me  
-- 🎓 Completed **BCA** at Sarala Birla University, Ranchi.  
+- 💼 Working as SAP SuccessFactors Integration Developer at **Accenture Solutions Pvt. Ltd**.  
 - 💻 Proficient in **MERN Stack Development**.  
-- 🌟 Frontend Head of **Google Developer Group (GDG) - SBU**.  
+- 🌟 Frontend Development Head of **Google Developer Group (GDG) - SBU**.  
 - 🎨 Bringing ideas to life with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**.  
 
 ---
